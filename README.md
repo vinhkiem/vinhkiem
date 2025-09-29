@@ -1,4 +1,4 @@
-## Hi there 👋
+
 1. Mong muốn và định hướng của bạn là gì sau khi học xong môn học?
 Sau khi học xong môn Lập trình Thiết bị Di động, mình mong muốn:
 •	Nắm vững kiến thức về phát triển ứng dụng di động (Android/iOS) và hiểu được quy trình xây dựng một app hoàn chỉnh.
