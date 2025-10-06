@@ -10,4 +10,3 @@ Theo mình, trong 10 năm tới lập trình di động vẫn tiếp tục phát
 •	Các công nghệ mới như AI, IoT, AR/VR đều được tích hợp vào thiết bị di động, tạo ra nhu cầu ứng dụng mới.
 •	Nhu cầu người dùng về các ứng dụng di động tiện ích, mua sắm, học tập, giải trí… vẫn không ngừng tăng.
 => Vì vậy, lập trình di động vẫn là ngành nghề hấp dẫn và tiềm năng.
-3.
