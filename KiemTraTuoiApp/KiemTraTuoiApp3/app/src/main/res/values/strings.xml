@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KiemTraTuoiApp</string>
+    <string name="app_title">THỰC HÀNH 02</string>
+    <string name="hint_name">Họ và tên</string>
+    <string name="hint_age">Tuổi</string>
+    <string name="btn_check">Kiểm tra</string>
+</resources>
